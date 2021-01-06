@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // This is a simple coding problem that displays knowledge of the List interface in C#. This is the first problem I solved using lists and so my technique is somewhat basic.
+// The problem can be found here https://www.codewars.com/kata/56b29582461215098d00000f/train/csharp
 
 namespace Fixer
 {
