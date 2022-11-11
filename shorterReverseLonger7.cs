@@ -1,5 +1,3 @@
- // Link to the challenge https://www.codewars.com/kata/54557d61126a00423b000a45/train/csharp
- 
  // Global variables
     string a = "";
     string b = "";
