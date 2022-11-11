@@ -1,10 +1,12 @@
- string str ="";
-    string finalResult = "";    
+public static void GetVowelCount(string str)
+{
+       string str ="";
+       string finalResult = "";    
 
     // This method takes the user input and counts the number of vowels in the given string
     // It works iteratively
         private void GetVowelCount()
-    {
+        {
             str = str.ToLower();
             int count = 0;
 
@@ -20,4 +22,7 @@
                 }
             }
             finalResult = count.ToString();
-    }
+          }       
+}    
+    
+
